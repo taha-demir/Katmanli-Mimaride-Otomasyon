@@ -32,5 +32,3 @@ as
 	declare @ID int
 	select @ID=TedarikciID from deleted
 	update Tedarikcilers set Aktif=0 where TedarikciID=@ID
-
---Deneme
