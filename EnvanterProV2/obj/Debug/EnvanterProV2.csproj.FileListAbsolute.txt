@@ -1,0 +1,6 @@
+D:\1 - th.dmr\3 - C#\EnvanterProV2\EnvanterProV2\bin\Debug\EnvanterProV2.dll
+D:\1 - th.dmr\3 - C#\EnvanterProV2\EnvanterProV2\bin\Debug\EnvanterProV2.pdb
+D:\1 - th.dmr\3 - C#\EnvanterProV2\EnvanterProV2\obj\Debug\EnvanterProV2.csprojAssemblyReference.cache
+D:\1 - th.dmr\3 - C#\EnvanterProV2\EnvanterProV2\obj\Debug\EnvanterProV2.csproj.CoreCompileInputs.cache
+D:\1 - th.dmr\3 - C#\EnvanterProV2\EnvanterProV2\obj\Debug\EnvanterProV2.dll
+D:\1 - th.dmr\3 - C#\EnvanterProV2\EnvanterProV2\obj\Debug\EnvanterProV2.pdb
